@@ -34,17 +34,17 @@ Source: [Tenets](https://blog.kindel.com/2020/02/10/tenets/) and [Debate Tenets]
 
 ## Tenets for tenets (unless you know better ones)
 
-This is the bar. Embed it. Do not soften it. Score every tenet, and the set, against these.
+This is the bar. Embed it. Do not soften it. Score every tenet, and the set, against these. This numbered list is also the format. Write every working set in this exact shape.
 
-1. Obsess over Customers. Use tenets to focus the endeavor on delivering value to the customer. In a set of tenets, at least one should describe an endeavor-specific principle for delivering value to the customer. In addition, there is value in considering what each tenet (or the tenets as a whole) would look like when framed as explicitly stating a benefit to customers. Customer obsession in tenets helps concentrate effort on what matters.
-2. Be Memorable. Being memorable is correlated with effective teaching. Experience shows that the best tenets are memorable. Two attributes of memorable tenets are challenging the reader, and being concise.
-3. Be Endeavor-Specific, or more specific than that. Good tenets get people excited about what the team does. People outside the team find that the tenets surprise them and give them insight into the team. The most common tenet-writing mistake is creating a tenet that applies to many teams and communicates virtually no information, such as, "Our team builds scalable systems." Each tenet should be as specific as possible while not suppressing innovation or excessively violating other tenets such as being durable.
-4. Counsel. Tenets help individuals make hard choices and trade-offs. A tenet takes a stand by declaring that a team cares more about one thing than another. Tenets guide rather than prescribe detailed actions; absolutes in tenets are a warning sign in this regard.
-5. Each Tenet has Only One Main Idea. Chisel each tenet down to a single essential idea making the tenet memorable and clear.
-6. Find a Minimal Cover. Each endeavor operates in a space of ideas; its semantic space. A team's tenets cover most of its semantic space, using the minimum number of single-idea tenets needed to do so.
-7. Orient for the Long Term. A tenet is durable and strategic. It may challenge or affirm traditional mindsets, and cause individuals to work in strategic directions they might not otherwise pursue. Tenets survive multiple rounds of goal-setting, achievement, and failure.
-8. A Tenet is not Something to be Done Later. A tenet captures an idea that team members could conceivably apply every day. Tenets are present tense; using the word "will" or "should" in a tenet is common and is almost always a mistake.
-9. Distinguish Rather than Elevate. Tenets capture what makes a team different, not what makes it superior.
+1. **Obsess over Customers.** Use tenets to focus the endeavor on delivering value to the customer. In a set of tenets, **at least one should describe an endeavor-specific principle for delivering value to the customer**. In addition, there is value in considering what each tenet (or the tenets as a whole) would look like when framed as explicitly stating a benefit to customers. Customer obsession in tenets helps concentrate effort on what matters.
+2. **Be Memorable.** Being memorable is correlated with effective teaching. Experience shows that the best tenets are memorable. Two attributes of memorable tenets are *challenging the reader*, and being *concise*.
+3. **Be Endeavor-Specific**, or more specific than that. Good tenets get people excited about what the team does. People outside the team find that the *tenets surprise them and give them insight into the team*. The most common tenet-writing mistake is creating a tenet that applies to many teams and communicates virtually no information, such as, "Our team builds scalable systems." Each tenet should be as specific as possible while not suppressing innovation or excessively violating other tenets such as being durable.
+4. **Counsel.** Tenets help individuals make hard choices and trade-offs. *A tenet takes a stand* by declaring that a team cares more about one thing than another. Tenets guide rather than prescribe detailed actions; absolutes in tenets are a warning sign in this regard.
+5. **Each Tenet has Only One Main Idea.** Chisel each tenet down to a *single essential idea* making the tenet memorable and clear.
+6. **Find a Minimal Cover.** Each endeavor operates in a space of ideas; its semantic space. A team's tenets cover most of its semantic space, using the *minimum number of single-idea tenets* needed to do so.
+7. **Orient for the Long Term.** A tenet is *durable and strategic*. It may challenge or affirm traditional mindsets, and cause individuals to work in strategic directions they might not otherwise pursue. Tenets survive multiple rounds of goal-setting, achievement, and failure.
+8. **A Tenet is not Something to be Done Later.** A tenet captures an idea that team members could conceivably apply every day. Tenets are present tense; using the word "will" or "should" in a tenet is common and is almost always a mistake.
+9. **Distinguish Rather than Elevate.** Tenets capture what makes a team different, not what makes it superior.
 
 A good tenet often produces a negative reaction in the room. That is a signal it took a stand, not a signal to sand it down. Keep useful tension. Name it. Do not flatten two tenets that pull against each other.
 
@@ -68,18 +68,33 @@ Write the tenets, and your editor notes, in this voice. It is a subset of [Writi
 
 The working set is the team's "we." Editor notes are you, direct, talking to one smart person.
 
-## Shape of one tenet
+## Format
 
-Title. Then two to five sentences.
+Format matters. The working set must look like the tenets for tenets above. That is not optional.
 
-The title is pithy and sayable. The body states the stand, names the trade-off, and usually includes one concrete example.
+1. One numbered list. Not headings. Not cards. Not a table. Not a bullet list of titles with bodies underneath.
+2. Each tenet is one list item and one paragraph. **Bold title.** Then the body continues on the same line, in the same item. No line break between the title and the body.
+3. The title is Title Case, pithy, and sayable. The period sits in the bold (or immediately after it).
+4. The body is two to five sentences. It states the stand, names the trade-off, and usually includes one concrete example. Italicize the load-bearing phrase, the way the tenets for tenets italicize *takes a stand* and *single essential idea*.
+5. Do not put Foundational, Aspirational, or any other label in the list. Those belong in the editor notes.
+6. End the list with a line: Unless you know better ones.
 
-Examples of the shape (do not copy these into someone else's set):
+Wrong:
 
-- On-premise compute comes first. Lighting is mission-critical for the end customer. It has to be low-latency and survive an internet outage. We invest in on-premise infrastructure for lighting, not a cloud-centered design.
-- We stand on the shoulders of giants. Controlling climate in a home is not a core competency here. For Comfort we integrate rather than invent. We would rather white-label a quality thermostat than engineer one ourselves.
-- We prioritize both end customers and partner customers, but when forced to choose, we are biased toward end customers.
-- Our org structure is invisible to customers. We are one company. One name. One product group. One sales force. One platform.
+```
+### On-premise compute comes first
+Lighting is mission-critical...
+(Foundational)
+```
+
+Right (this is the only shape):
+
+1. **On-Premise Compute Comes First.** Lighting is a mission-critical capability for our end customers and as a result, we choose to invest in *on-premise, vs. cloud-based* infrastructure for our Lighting products.
+2. **We Stand on the Shoulders of Giants.** Controlling climate in a home is not a core competency here. For Comfort we *integrate rather than invent*. We would rather white-label a quality thermostat than engineer one ourselves.
+3. **We Prioritize Both End Customers and Partner Customers,** but when forced to make trade-offs between one or the other, we are biased toward end customers.
+4. **Our Org Structure is Invisible to Customers.** We are one company. One name. One product group. One sales force. One platform.
+
+Do not copy those examples into someone else's set. Copy only the shape.
 
 Do not use Amazon Leadership Principles as this team's tenets. Those are a company-scale example that principle and tenet are the same word. A team or program set must be more specific than that.
 
@@ -102,7 +117,7 @@ Default set size is a few. For a team or program, five to eight is common. Fewer
 
 When you draft or revise a set:
 
-1. The working set, ready to paste at the top of a narrative. Title plus body for each tenet. Mark each Foundational or Aspirational. End the list with "Unless you know better ones."
+1. The working set, ready to paste at the top of a narrative. Numbered list. **Bold title.** Body on the same line. Same shape as the tenets for tenets. Nothing else in that list. Then: Unless you know better ones.
 2. For each tenet, a short editor note: the trade-off it settles, the tenets-for-tenets rule it most depends on, and what "over" looks like if the team worships it. Name who will hate it if that is useful.
 3. A set review against the nine tenets for tenets. Call out missing customer value, motherhood, two-idea tenets, future tense, generic lines, gaps in the semantic space, and useful tensions you kept on purpose.
 4. Two to four debate questions the room should actually fight about. Give them as the exact human act: take these to the room. Decision-making gets easier after the fight, not before.

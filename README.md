@@ -10,7 +10,7 @@ The prompt embeds three things so the agent does not have to go fetch them:
 2. A strong subset of [Tig's writing voice](https://github.com/kindel/blog/blob/master/docs/writing-in-tigs-voice.md).
 3. [Bedside](https://github.com/tig/bedside/tree/main/contract) manners: treat the human as smart and high-judgment, prefer doing over instructing, ask one question when blocked, never leave them at a cliff.
 
-There is no app. Copy [`prompt.md`](prompt.md) into any agent, then describe the endeavor or paste a draft set.
+Live: [https://kindel.com/tenets/](https://kindel.com/tenets/). There is no app. Copy [`prompt.md`](prompt.md) into any agent, then describe the endeavor or paste a draft set.
 
 ## Use
 

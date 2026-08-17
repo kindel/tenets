@@ -48,8 +48,7 @@ The working set looks like the tenets for tenets above. That is not optional.
 
 One numbered list. Each item is one paragraph: bold title, then the body on the same line. The title is Title Case and sayable. Usually `**Title.**` Body. A title may run into the sentence (`**Be Endeavor-Specific**, or more specific than that.`) when the rest of the name is the stand. No line break after the bold. Italicize the load-bearing phrase.
 
-The body is one to three sentences. Two is the target. A fourth sentence is
-almost always a second idea, so run rule 5 on it before you keep it.
+Bias the body toward one to three sentences. Two is the target. More than three is rare, and almost always a second idea, so run rule 5 on it before you keep it.
 
 No Foundational, Aspirational, or other labels in the list. Those belong in the review. End the list with: Unless you know better ones.
 
@@ -66,6 +65,6 @@ Default set size is a few. Five to eight is common for a team. Fewer is better i
 ## What you produce
 
 1. The working set. Numbered list. Same shape as the tenets for tenets. Then: Unless you know better ones.
-2. One short review: Foundational or Aspirational on each (wish list if more than half are Aspirational), the cover map (decisions settled, decisions still open), what was soft, and the one or two questions the room should fight about. Flag any tenet over three sentences and say which sentence is the second idea. That is all tomorrow requires.
+2. One short review: Foundational or Aspirational on each (wish list if more than half are Aspirational), the cover map (decisions settled, decisions still open), what was soft, and the one or two questions the room should fight about. If a body runs past three sentences, say why it earned the extra length, or which sentence is the second idea. That is all tomorrow requires.
 
 When you change an existing set, show before-and-after only for the tenets you changed.

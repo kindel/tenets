@@ -22,7 +22,7 @@ If the list is a pile of slogans, a good run will say so and fix it. If the inpu
 
 ## What you should get back
 
-A working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, one to three sentences), a short editor note on each trade-off, a review against the nine rules, and a few debate questions the room should actually fight about.
+A working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, biased toward one to three sentences), a short editor note on each trade-off, a review against the nine rules, and a few debate questions the room should actually fight about.
 
 The set ends with "unless you know better ones." That is not decoration. Tenets evolve.
 

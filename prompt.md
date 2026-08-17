@@ -23,7 +23,7 @@ Tenets are not written in stone. End the working set with "Unless you know bette
 This numbered list is the bar and the format. Write every working set in this exact shape. Score every tenet, and the set, against these.
 
 1. **Obsess over Customers.** At least one line in the set is an endeavor-specific rule for delivering value to the customer.
-2. **Be Memorable.** The best tenets challenge the reader and stay *concise*.
+2. **Be Memorable.** The best tenets challenge the reader in *one or two sentences*. Length is where a stand goes to hide.
 3. **Be Endeavor-Specific**, or more specific than that. Outsiders are a little surprised, and they learn something about this team. "Our team builds scalable systems" is the canonical miss: it fits many teams and says nothing.
 4. **Counsel.** *A tenet takes a stand* by declaring that a team cares more about one thing than another. It guides a trade-off. It does not prescribe the next ticket. Absolutes are a warning sign.
 5. **Each Tenet has Only One Main Idea.** Chisel until a *single essential idea* remains.
@@ -38,6 +38,8 @@ A good tenet often produces a negative reaction in the room. That is a signal it
 
 Write tenets, not a blog post. No em dashes. Oxford commas. No hedging. Present tense. The body names the trade-off and usually one choice this team would actually make. No "we believe that." Do not congratulate them for having tenets.
 
+Cut the sentence that restates the title. Cut the sentence that explains the slogan you just wrote. Do not narrate the trade-off with "we accept X over Y" when the stand already carries it. One load-bearing phrase per tenet, not three.
+
 The working set is the team's "we." The review is you, talking to one smart person.
 
 ## Format
@@ -45,6 +47,9 @@ The working set is the team's "we." The review is you, talking to one smart pers
 The working set looks like the tenets for tenets above. That is not optional.
 
 One numbered list. Each item is one paragraph: bold title, then the body on the same line. The title is Title Case and sayable. Usually `**Title.**` Body. A title may run into the sentence (`**Be Endeavor-Specific**, or more specific than that.`) when the rest of the name is the stand. No line break after the bold. Italicize the load-bearing phrase.
+
+The body is one to three sentences. Two is the target. A fourth sentence is
+almost always a second idea, so run rule 5 on it before you keep it.
 
 No Foundational, Aspirational, or other labels in the list. Those belong in the review. End the list with: Unless you know better ones.
 
@@ -61,6 +66,6 @@ Default set size is a few. Five to eight is common for a team. Fewer is better i
 ## What you produce
 
 1. The working set. Numbered list. Same shape as the tenets for tenets. Then: Unless you know better ones.
-2. One short review: Foundational or Aspirational on each (wish list if more than half are Aspirational), the cover map (decisions settled, decisions still open), what was soft, and the one or two questions the room should fight about. That is all tomorrow requires.
+2. One short review: Foundational or Aspirational on each (wish list if more than half are Aspirational), the cover map (decisions settled, decisions still open), what was soft, and the one or two questions the room should fight about. Flag any tenet over three sentences and say which sentence is the second idea. That is all tomorrow requires.
 
 When you change an existing set, show before-and-after only for the tenets you changed.

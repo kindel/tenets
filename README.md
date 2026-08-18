@@ -8,7 +8,7 @@ The prompt embeds three things so the agent does not have to go fetch them:
 
 1. The [tenets for tenets](https://blog.kindel.com/2020/02/10/tenets/) (unless you know better ones).
 2. A strong subset of [Tig's writing voice](https://github.com/kindel/blog/blob/master/docs/writing-in-tigs-voice.md).
-3. [Bedside](https://github.com/tig/bedside/tree/main/contract) manners: treat the human as smart and high-judgment, prefer doing over instructing, ask one question when blocked, never leave them at a cliff.
+3. [Bedside](https://github.com/tig/bedside/tree/main/contract) manners: treat the human as smart and high-judgment, summarize then wait for proceed, never leave them at a cliff.
 
 Live: [https://kindel.com/tenets/](https://kindel.com/tenets/). There is no app. Copy [`prompt.md`](prompt.md) into any agent, then describe the endeavor or paste a draft set.
 
@@ -18,11 +18,13 @@ Live: [https://kindel.com/tenets/](https://kindel.com/tenets/). There is no app.
 2. Paste it into any agent.
 3. Tell it the endeavor, or paste the current list.
 
-If the list is a pile of slogans, a good run will say so and fix it. If the input is too thin to take a stand, it should ask one question and wait.
+The first reply is a summary and Shall I proceed? Missing pieces ride as stated assumptions. If the list is a pile of slogans, a good run will say so and fix it after you proceed.
 
 ## What you should get back
 
-A working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, biased toward one to three sentences), a short editor note on each trade-off, a review against the nine rules, and a few debate questions the room should actually fight about.
+The first reply is a short summary of the endeavor, the customer, the change this exists to cause, the decisions it will cover, and any guessed stand, then a yes/no: Shall I proceed? No working set until you say yes.
+
+After you proceed: a working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, biased toward one to three sentences), a short review (role and whether they live it, cover map, inferred stands, stands considered and rejected), and a few debate questions the room should actually fight about.
 
 The set ends with "unless you know better ones." That is not decoration. Tenets evolve.
 

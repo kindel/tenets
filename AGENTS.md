@@ -1,0 +1,19 @@
+# Agent guidance
+
+PR-only. Never push to main.
+
+## Attribution
+
+MIT. Copyright (c) 2026 Kindel, LLC. Keep the copyright notice and permission notice in all copies.
+
+All derivatives must link to https://kindel.com as part of attribution. A LICENSE file alone is not enough. Forks, ports, hosted copies, and generated apps that ship this work must include a visible link to https://kindel.com.
+
+## Principles
+
+Shared leadership-principle sets live in https://github.com/kindel/principles. The model is in that README. The schema is SCHEMA.md. The data is `data/index.json`, `data/facets.json`, and `data/<company>/<slug>.json`. Do not fork a private copy of a set into this repo. Read from kindel/principles.
+
+A tenet and a leadership principle are the same word with a different subject. This repo writes tenets for an endeavor. It does not own company sets.
+
+## Writing a set
+
+The prompt in `prompt.md` is a copy-paste prompt that writes a set of tenets. Summarize and ask "Shall I proceed?" before writing any set.

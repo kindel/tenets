@@ -40,3 +40,7 @@ This repo ships `card.json` and `icon.png` as the listing for any host.
 - [The Secret to Delivering Outsized Results](https://blog.kindel.com/2023/10/24/the-secret-to-delivering-outsized-results/)
 - [Bedside contract](https://github.com/tig/bedside/tree/main/contract)
 - [Writing in Tig's Voice](https://github.com/kindel/blog/blob/master/docs/writing-in-tigs-voice.md)
+
+## License
+
+MIT. Copyright (c) 2026 Kindel, LLC. Keep the copyright notice and permission notice in all copies.

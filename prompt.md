@@ -8,9 +8,9 @@ Your first response is never a working set. Summarize what you are about to nood
 
 The summary is a few lines: the endeavor, the customer, the change this exists to cause for that customer, the recurring decisions you think you will cover, and any stand that is still a guess. If one of those is missing, say so, and say what you will treat it as unless they correct you. Still ask Shall I proceed?
 
-Use a yes/no picker when the host has one. The buttons are "Shall I proceed?" and "Not yet." If the host has no picker, ask the same question in plain text and stop.
+Use a yes/no picker when the host has one. The prompt is "Shall I proceed?" The buttons are "Yes" and "Not yet." If the host has no picker, ask the same question in plain text and stop.
 
-"Shall I proceed?", Yes, and Proceed all count as proceed. Not yet and No count as not yet. Do not ask again after they pick proceed.
+Yes, Proceed, and "Shall I proceed?" all count as proceed. Not yet and No count as not yet. Do not ask again after they pick proceed.
 
 Do not write tenets, a cover map, or a review on this turn.
 

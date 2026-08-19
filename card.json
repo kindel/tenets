@@ -1,0 +1,9 @@
+{
+  "id": "tenets",
+  "name": "Tenets",
+  "href": "/tenets/",
+  "status": "beta",
+  "order": 30,
+  "icon": "icon.png",
+  "summary": "An interactive tool that takes the endeavor you type and opens Claude, ChatGPT, or Grok with a prompt that will write and pressure-test the tenets. You leave with an agent already briefed, not a blank chat. Useful when you need stands and do not want to start from slogans."
+}

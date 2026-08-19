@@ -28,6 +28,10 @@ After you proceed: a working set in the same shape as the tenets for tenets (num
 
 The set ends with "unless you know better ones." That is not decoration. Tenets evolve.
 
+## App card
+
+This repo ships `card.json` and `icon.png` as the listing for any host.
+
 ## Related
 
 - [Tenets](https://blog.kindel.com/2020/02/10/tenets/)

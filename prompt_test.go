@@ -90,15 +90,15 @@ func TestAspirationalMeansTheyDoNotLiveItYet(t *testing.T) {
 	}
 }
 
-func TestReadmeNamesGuessedStandAndRejectedStands(t *testing.T) {
+func TestReadmeNamesGuessedTenetAndRejectedTenets(t *testing.T) {
 	gotBack := section(mustRead(t, "README.md"), "What you should get back")
 	if gotBack == "" {
 		t.Fatal("missing What you should get back section")
 	}
-	if !strings.Contains(gotBack, "guessed stand") {
-		t.Error("first-turn summary in README must include any guessed stand")
+	if !strings.Contains(gotBack, "guessed tenet") {
+		t.Error("first-turn summary in README must include any guessed tenet")
 	}
-	if !strings.Contains(gotBack, "stands considered and rejected") {
-		t.Error(`README must keep "stands considered and rejected", not shorten to "rejected stands"`)
+	if !strings.Contains(gotBack, "tenets considered and rejected") {
+		t.Error(`README must keep "tenets considered and rejected"`)
 	}
 }

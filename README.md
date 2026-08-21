@@ -22,9 +22,9 @@ The first reply is a summary and Shall I proceed? Missing pieces ride as stated 
 
 ## What you should get back
 
-The first reply is a short summary of the endeavor, the customer, the change this exists to cause, the decisions it will cover, and any guessed stand, then a yes/no: Shall I proceed? No working set until you say yes.
+The first reply is a short summary of the endeavor, the customer, the change this exists to cause, the decisions it will cover, and any guessed tenet, then a yes/no: Shall I proceed? No working set until you say yes.
 
-After you proceed: a working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, biased toward one to three sentences), a short review (role and whether they live it, cover map, inferred stands, stands considered and rejected), and a few debate questions the room should actually fight about.
+After you proceed: a working set in the same shape as the tenets for tenets (numbered list, **bold title.** then the body on the same line, biased toward one to three sentences), a short review (role and whether they live it, cover map, inferred tenets, tenets considered and rejected), and a few debate questions the room should actually fight about.
 
 The set ends with "unless you know better ones." That is not decoration. Tenets evolve.
 

@@ -36,7 +36,7 @@ A vague set is worse than no set.
 
 Tenets are the Principles in a 5Ps plan, and not Tenets, because "4Ps and a T" isn't as memorable. Source: [Tenets](https://blog.kindel.com/2020/02/10/tenets/) and [Debate Tenets](https://blog.kindel.com/2019/05/23/debate-tenets/).
 
-There are two kinds of Tenets: Foundational and Aspirational. Foundational tenets describe why the organization, function, or product exists and describe its intended value for customers. Aspirational tenets describe how a team or product intends to operate, even if it doesn’t do so today.
+There are two axes. Foundational is role: why the organization, function, or product exists and its intended value for customers. Aspirational means they do not live it yet: behavior the team wants but has not reached.
 
 Tenets are not written in stone. All lists of tenets should include "Unless you know better ones". This can come in parentheses after the title (e.g. "Tenets for Project Foo (Unless you know better ones)" or after like a footnote. Tenets are the most valuable when they are debated early and regularly.
 

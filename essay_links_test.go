@@ -36,11 +36,13 @@ func assertNoEssayPermalinks(t *testing.T) {
 	}
 	var snap struct {
 		BySlug map[string]string `json:"by_slug"`
+		ByID   map[string]string `json:"by_id"`
 	}
 	if err := json.Unmarshal(raw, &snap); err != nil {
 		t.Fatal(err)
 	}
 	dated := regexp.MustCompile(`https?://(?:www\.)?blog\.kindel\.com/\d{4}/\d{2}/\d{2}/([a-z0-9]+(?:-[a-z0-9]+)*)/?`)
+	byP := regexp.MustCompile(`https?://(?:www\.)?blog\.kindel\.com/(?:index\.php)?\?[^"'\s>]*\bp=(\d+)`)
 	skip := map[string]bool{".git": true, "essay_slugs.json": true, "check-essay-links.js": true}
 	var hits []string
 	err = filepath.Walk(".", func(path string, info os.FileInfo, err error) error {
@@ -66,8 +68,18 @@ func assertNoEssayPermalinks(t *testing.T) {
 		if err != nil {
 			return err
 		}
-		for _, match := range dated.FindAllStringSubmatch(string(text), -1) {
+		body := string(text)
+		for _, match := range dated.FindAllStringSubmatch(body, -1) {
 			if _, ok := snap.BySlug[strings.ToLower(match[1])]; ok {
+				hits = append(hits, path+": "+match[0])
+			}
+		}
+		for _, match := range byP.FindAllStringSubmatch(body, -1) {
+			id := strings.TrimLeft(match[1], "0")
+			if id == "" {
+				id = "0"
+			}
+			if _, ok := snap.ByID[id]; ok {
 				hits = append(hits, path+": "+match[0])
 			}
 		}

@@ -6,7 +6,7 @@ Tenets are a few carefully articulated guiding principles for any endeavor. They
 
 The prompt embeds three things so the agent does not have to go fetch them:
 
-1. The [tenets for tenets](https://blog.kindel.com/2020/02/10/tenets/) (unless you know better ones).
+1. The [tenets for tenets](https://kindel.com/essays/tenets/) (unless you know better ones).
 2. A strong subset of [Tig's writing voice](https://github.com/kindel/blog/blob/master/docs/writing-in-tigs-voice.md).
 3. [Bedside](https://github.com/tig/bedside/tree/main/contract) manners: treat the human as smart and high-judgment, summarize then wait for proceed, never leave them at a cliff.
 
@@ -34,10 +34,10 @@ This repo ships `card.json` and `icon.png` as the listing for any host.
 
 ## Related
 
-- [Tenets](https://blog.kindel.com/2020/02/10/tenets/)
-- [Debate Tenets](https://blog.kindel.com/2019/05/23/debate-tenets/)
-- [The 5Ps](https://blog.kindel.com/2011/06/14/the-5-ps-achieving-focus-in-any-endeavor/)
-- [The Secret to Delivering Outsized Results](https://blog.kindel.com/2023/10/24/the-secret-to-delivering-outsized-results/)
+- [Tenets](https://kindel.com/essays/tenets/)
+- [Debate Tenets](https://kindel.com/essays/debate-tenets/)
+- [The 5Ps](https://kindel.com/essays/the-5-ps-achieving-focus-in-any-endeavor/)
+- [The Secret to Delivering Outsized Results](https://kindel.com/essays/the-secret-to-delivering-outsized-results/)
 - [Bedside contract](https://github.com/tig/bedside/tree/main/contract)
 - [Writing in Tig's Voice](https://github.com/kindel/blog/blob/master/docs/writing-in-tigs-voice.md)
 

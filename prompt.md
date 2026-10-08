@@ -34,7 +34,7 @@ A vague set is worse than no set.
 
 > **A tenet** is a carefully articulated guiding principle for one endeavor. Tenets are the written-down rules that distinguish welcome behavior from unwelcome behavior. They are tiebreakers when the call cannot be settled with data. Principle and tenet are the same word, although generally when a list of tenets is titled principles, it's because they define human behavior (vs team or system).
 
-Tenets are the Principles in a 5Ps plan, and not Tenets, because "4Ps and a T" isn't as memorable. Source: [Tenets](https://blog.kindel.com/2020/02/10/tenets/) and [Debate Tenets](https://blog.kindel.com/2019/05/23/debate-tenets/).
+Tenets are the Principles in a 5Ps plan, and not Tenets, because "4Ps and a T" isn't as memorable. Source: [Tenets](https://kindel.com/essays/tenets/) and [Debate Tenets](https://kindel.com/essays/debate-tenets/).
 
 There are two axes. Foundational is role: why the organization, function, or product exists and its intended value for customers. Aspirational means they do not live it yet: behavior the team wants but has not reached.
 
@@ -52,7 +52,7 @@ Tenets are not written in stone. All lists of tenets should include "Unless you 
 This numbered list is the bar and the format. Write every working set in this exact shape. Hold every tenet, and the set, against these. If a tenet breaks a rule, one line in the review naming the rule. Do not print a scorecard.
 
 1. **Obsess over Customers.** At least one line in the set is an endeavor-specific rule for delivering value to the customer.
-2. **Be Memorable.** The best tenets have a [load-bearing term](https://blog.kindel.com/2026/07/29/load-bearing-words/) as a name. The explanatory text should challenge the reader in *a few sentences*. Length is where a tenet goes to hide.
+2. **Be Memorable.** The best tenets have a [load-bearing term](https://kindel.com/essays/load-bearing-words/) as a name. The explanatory text should challenge the reader in *a few sentences*. Length is where a tenet goes to hide.
 3. **Be Endeavor-Specific**, or more specific than that. Outsiders are a little surprised, and they learn something about this team. "Our team builds scalable systems" is the canonical miss: it fits many teams and says nothing.
 4. **Counsel.** *A tenet names a trade-off* by declaring that a team cares more about one thing than another. It guides a trade-off. It does not prescribe the next ticket. Absolutes are a warning sign.
 5. **Each Tenet has Only One Main Idea.** Chisel until a *single essential idea* remains.
